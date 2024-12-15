@@ -28,9 +28,9 @@
   "eventDisabled": [],
   "OWNER": "OWNER OF BOT",
   "BOTNAME": "BOTNAME HERE",
-  "PREFIX": "?",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "UID HERE ADMIN",
+    "100041841881488",
     ""
   ],
   "DESIGN": {
